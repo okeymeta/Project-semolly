@@ -16,10 +16,10 @@ window.addEventListener("load", function () {
 
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
-    "Dedicated Self Learner",
     "CEO & Founder of Semolly Graphics and Package",
-    "WordPress Expert",
     "Graphic Designer",
+    "Corel Draw & Photoshope Expert",
+    "Dedicated Self Learner",
     "Content Writer",
   ],
   loop: true,
