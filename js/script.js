@@ -17,7 +17,7 @@ window.addEventListener("load", function () {
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
     "Dedicated Self Learner",
-    "Front End Developer",
+    "CEO & Founder of Semolly Graphics and Package",
     "WordPress Expert",
     "Graphic Designer",
     "Content Writer",
