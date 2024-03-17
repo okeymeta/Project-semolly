@@ -18,7 +18,7 @@ window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
     "CEO & Founder of Semolly Graphics and Package",
     "Graphic Designer",
-    "Corel Draw & Photoshope Expert",
+    "Corel Draw & Photoshop Expert",
     "Dedicated Self Learner",
     "Content Writer",
   ],
